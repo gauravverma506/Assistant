@@ -3,11 +3,3 @@ def add_numbers(a, b):
     return a - b
 # trigger review
 # final test
-# trigger review
-# trigger review# trigger review# trigger review# trigger review# trigger review
-# trigger review
-# trigger review# trigger review# trigger review# trigger review# trigger review
-# trigger review
-# trigger review# trigger review# trigger review# trigger review# trigger review
-# final test
-# final test
